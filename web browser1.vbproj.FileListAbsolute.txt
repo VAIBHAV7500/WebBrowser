@@ -1,0 +1,18 @@
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\bin\Debug\web browser1.exe.config
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\bin\Debug\web browser1.exe
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\bin\Debug\web browser1.pdb
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\bin\Debug\web browser1.xml
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.vbprojResolveAssemblyReference.cache
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web_browser1.Banira.resources
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web_browser1.Resources.resources
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.vbproj.GenerateResource.Cache
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.vbproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.exe
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.xml
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.pdb
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web_browser1.Form2.resources
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web_browser1.Form3.resources
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\bin\Debug\web browser1.exe.manifest
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\bin\Debug\web browser1.application
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.exe.manifest
+C:\Users\Vaibhav\source\repos\web browser1\web browser1\obj\Debug\web browser1.application

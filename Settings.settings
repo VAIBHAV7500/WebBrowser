@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Google" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.co.in/search?q=</Value>
+    </Setting>
+    <Setting Name="Bing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com/search?q=</Value>
+    </Setting>
+    <Setting Name="Youtube" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.youtube.com/results?search_query=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
